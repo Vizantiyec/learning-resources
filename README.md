@@ -24,3 +24,26 @@
  * build-podcast [ссылка](http://build-podcast.com/) - много туториалов по различным технологиям
 
 ## Скринкасты
+
+ * EggHead.io [ссылка](http://egghead.io/)
+ * TutsPlus [ссылка](http://code.tutsplus.com/categories/javascript/courses)
+ * LetsCode [ссылка](http://www.letscodejavascript.com/)
+ * Gibbon [ссылка](https://gibbon.co/topics/programming)
+ * WatchMeCode [ссылка](https://sub.watchmecode.net/categories/free/page/3/)
+ * MetaCast [ссылка](http://www.metacasts.tv/casts)
+ * Frontend Masters [ссылка](https://frontendmasters.com/)
+ * DevFreeCast [ссылка](http://caio-ribeiro-pereira.github.io/devfreecasts/)
+ 
+## Блоги
+
+ * Addy Osmani [ссылка](http://addyosmani.com/blog/)
+ * Douglas Crockford [ссылка](http://www.crockford.com/)
+ * John Resig [ссылка](http://ejohn.org/)
+ * больше здесь http://jstherightway.org/#whotofollow
+ 
+## Гиды
+
+ * JsTheRightWay [ссылка](http://jstherightway.org/#whotofollow)
+ * Superhero.js [ссылка](http://superherojs.com/)
+ * A List Apart [ссылка](http://alistapart.com/)
+ * Move the web forward [ссылка](http://movethewebforward.org/)
